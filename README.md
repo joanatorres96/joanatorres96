@@ -30,7 +30,7 @@
 
 <div align="center">
   
- ![snake gif](https://github.com/joanatorres96/joanatorres96/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/joanatorres96/joanatorres96/blob/output/github-contribution-grid-snake.svg)
   
   </div>
 
