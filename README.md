@@ -1,8 +1,8 @@
 ### Hi there! I'm Joana Torres 👋
 
 - 🔭 I’m looking to start a new career as Front-end developer!
-- 👩‍💻 This is <a href="https://cranky-poincare-a3701c.netlify.app/" target="_blank">My personal portfolio</a>
-- 🌱 I’m currently learning more about React.
+- 👩‍💻 This is <a href="https://joanatorresportfolio.netlify.app/" target="_blank">My personal portfolio</a>
+- 🌱 I’m currently learning more about Testing and Java.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I've started to "play" with code when I was 12 years old, but only at 25 I've decided to evolve this hobby to a career.
 
